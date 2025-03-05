@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.idea/modules.xml
+.idea/Progr-C-CPP-2025-Lect-Pract.iml
+.idea/vcs.xml
+.idea/workspace.xml
