@@ -9,7 +9,6 @@ int main() {
     cout << sin((double)3/2) << std::endl;
     cout << Pi << std::endl;
     cout << SQR(5);
-
     int q=0;
     cout << "\nq=";
     std::cin >> q;
