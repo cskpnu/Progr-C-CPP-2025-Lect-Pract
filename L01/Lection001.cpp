@@ -2,7 +2,9 @@
 #include "cmath"
 #define Pi 3.1415926
 #define SQR(x) (x)*(x)
+
 using namespace std;
+
 int main() {
     cout << "Hello, Group KN1B24!" << std::endl;
     double a=1,b=2;
