@@ -9,7 +9,7 @@ int main()
         string grup;
         long number;
         double rating;
-    } starr[KST], stud, * pst, * pstl, * pst2;   /* структурні змінні */
+    } starr[KST], stud, *pst, *pstl, *pst2;   /* структурні змінні */
     int k, kst;     double inrating;
     cout << "Кількість студентів - ";
     cin >> kst;
