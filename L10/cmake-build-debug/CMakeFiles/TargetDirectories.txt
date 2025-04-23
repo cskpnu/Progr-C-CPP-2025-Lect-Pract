@@ -1,0 +1,3 @@
+C:/Ivaniuk/Projects/Edu/Progr-C-CPP-2025/Progr-C-CPP-2025-Lect-Pract/L10/cmake-build-debug/CMakeFiles/L10.dir
+C:/Ivaniuk/Projects/Edu/Progr-C-CPP-2025/Progr-C-CPP-2025-Lect-Pract/L10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Ivaniuk/Projects/Edu/Progr-C-CPP-2025/Progr-C-CPP-2025-Lect-Pract/L10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
